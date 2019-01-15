@@ -69,7 +69,7 @@ p {
         
 
         display: inline-block;
-        background-image:  url(../img/jack.jpg);       
+        background-image:  url(./img/jack.jpg);       
         
         width: 300px;
         height: 300px;
